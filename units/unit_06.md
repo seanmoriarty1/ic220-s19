@@ -123,7 +123,7 @@ number of cycles by multiplying by the total number of instructions or `IC`. Or
 put another way, `cycles = CPI*IC`. To get CPU time, we now have now 
 
 ```
-CPUtime = CPI * IC * ClockCycleTime = CPU*IC/ClockRate
+CPUtime = CPI * IC * ClockCycleTime = CPI*IC/ClockRate
 ```
 
 
